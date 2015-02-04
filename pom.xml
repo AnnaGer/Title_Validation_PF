@@ -35,7 +35,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.Selemium_properties_file_try</mainClass>
+							<mainClass>core.Selenium_properties_file_throws</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
